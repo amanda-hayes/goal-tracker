@@ -1,0 +1,19 @@
+{
+  "name": "goal-tracker",
+  "version": "1.0.0",
+  "description": "goal tracker app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/amanda-hayes/goal-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amanda-hayes/goal-tracker/issues"
+  },
+  "homepage": "https://github.com/amanda-hayes/goal-tracker#readme"
+}
